@@ -169,7 +169,7 @@ The workflow requires PostgreSQL, pgAdmin, Power BI Desktop, the four CSV datase
 4. Open the Power BI report and update its PostgreSQL connection to the local server and database. Use local credentials rather than publishing credentials in project files.
 5. Refresh the report and reconcile the headline results to the KPI table above.
 
-## Suggested repository organisation
+## Repository Structure
 
 The package includes the original datasets, reconstructed SQL scripts, supplied Power BI report, five screenshots and validation evidence.
 
