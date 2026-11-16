@@ -1,0 +1,7 @@
+product_id,product_name,department,unit_price_zar,unit_cost_zar
+P001,Everyday T-shirt,Apparel,220.0,88.0
+P002,Premium hoodie,Apparel,650.0,260.0
+P003,Running shoes,Footwear,1100.0,520.0
+P004,Casual sneakers,Footwear,850.0,390.0
+P005,Backpack,Accessories,480.0,190.0
+P006,Water bottle,Accessories,160.0,52.0

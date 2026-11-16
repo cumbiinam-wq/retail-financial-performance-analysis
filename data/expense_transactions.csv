@@ -1,0 +1,644 @@
+expense_id,expense_date,department,expense_category,amount_zar
+E00001,2025-01-17,Sales,Marketing,3668.04
+E00002,2025-01-11,Sales,Marketing,23528.64
+E00003,2025-01-22,Sales,Marketing,10292.35
+E00004,2025-01-23,Sales,Marketing,7136.02
+E00005,2025-01-06,Sales,Marketing,1325.87
+E00006,2025-01-11,Sales,Marketing,1325.65
+E00007,2025-01-18,Sales,Marketing,467.73
+E00008,2025-01-27,Sales,Sales salaries,39369.24
+E00009,2025-01-03,Sales,Sales salaries,17990.76
+E00010,2025-01-01,Sales,Sales salaries,24101.35
+E00011,2025-01-04,Sales,Delivery,115.76
+E00012,2025-01-22,Sales,Delivery,19499.75
+E00013,2025-01-15,Sales,Delivery,9942.73
+E00014,2025-01-12,Sales,Delivery,1328.46
+E00015,2025-01-08,Sales,Delivery,1116.92
+E00016,2025-01-24,Sales,Delivery,1127.67
+E00017,2025-01-02,Operations,Warehouse rent,5002.54
+E00018,2025-01-01,Operations,Warehouse rent,10259.1
+E00019,2025-01-20,Operations,Warehouse rent,7799.01
+E00020,2025-01-03,Operations,Warehouse rent,4746.99
+E00021,2025-01-02,Operations,Warehouse rent,13050.89
+E00022,2025-01-27,Operations,Utilities,483.74
+E00023,2025-01-07,Operations,Utilities,1112.53
+E00024,2025-01-20,Operations,Utilities,1469.18
+E00025,2025-01-21,Operations,Utilities,1960.72
+E00026,2025-01-04,Operations,Utilities,4952.04
+E00027,2025-01-23,Operations,Utilities,717.19
+E00028,2025-01-04,Operations,Utilities,2324.88
+E00029,2025-01-05,Operations,Packaging,9240.75
+E00030,2025-01-13,Operations,Packaging,489.72
+E00031,2025-01-22,Operations,Packaging,9630.24
+E00032,2025-01-06,Operations,Operations salaries,1555.52
+E00033,2025-01-04,Operations,Operations salaries,559.64
+E00034,2025-01-23,Operations,Operations salaries,24741.1
+E00035,2025-01-06,Operations,Operations salaries,28043.66
+E00036,2025-01-09,Operations,Operations salaries,13747.41
+E00037,2025-01-10,Operations,Operations salaries,3022.56
+E00038,2025-01-15,Operations,Operations salaries,855.11
+E00039,2025-01-09,Administration,Office rent,14138.13
+E00040,2025-01-25,Administration,Office rent,7114.63
+E00041,2025-01-14,Administration,Office rent,1596.28
+E00042,2025-01-25,Administration,Software,1403.7
+E00043,2025-01-03,Administration,Software,71.86
+E00044,2025-01-09,Administration,Software,4929.4
+E00045,2025-01-25,Administration,Software,614.95
+E00046,2025-01-02,Administration,Software,2230.69
+E00047,2025-01-02,Administration,Professional fees,419.93
+E00048,2025-01-09,Administration,Professional fees,825.27
+E00049,2025-01-27,Administration,Professional fees,889.47
+E00050,2025-01-09,Administration,Professional fees,229.77
+E00051,2025-01-06,Administration,Professional fees,3926.51
+E00052,2025-01-15,Administration,Professional fees,1677.54
+E00053,2025-01-07,Administration,Admin salaries,24772.14
+E00054,2025-01-20,Administration,Admin salaries,19889.04
+E00055,2025-01-13,Administration,Admin salaries,8045.64
+E00056,2025-02-04,Sales,Marketing,41532.4
+E00057,2025-02-05,Sales,Marketing,1509.43
+E00058,2025-02-18,Sales,Marketing,3553.59
+E00059,2025-02-25,Sales,Marketing,753.97
+E00060,2025-02-21,Sales,Sales salaries,8037.5
+E00061,2025-02-04,Sales,Sales salaries,10051.27
+E00062,2025-02-15,Sales,Sales salaries,6465.43
+E00063,2025-02-23,Sales,Sales salaries,36039.33
+E00064,2025-02-09,Sales,Sales salaries,9011.62
+E00065,2025-02-04,Sales,Sales salaries,6735.89
+E00066,2025-02-19,Sales,Delivery,10222.57
+E00067,2025-02-24,Sales,Delivery,1984.63
+E00068,2025-02-09,Sales,Delivery,21172.48
+E00069,2025-02-16,Operations,Warehouse rent,393.57
+E00070,2025-02-05,Operations,Warehouse rent,22017.05
+E00071,2025-02-21,Operations,Warehouse rent,7515.64
+E00072,2025-02-21,Operations,Warehouse rent,1125.4
+E00073,2025-02-01,Operations,Warehouse rent,28.13
+E00074,2025-02-02,Operations,Warehouse rent,8584.52
+E00075,2025-02-23,Operations,Utilities,3254.39
+E00076,2025-02-11,Operations,Utilities,3462.76
+E00077,2025-02-13,Operations,Utilities,3912.43
+E00078,2025-02-19,Operations,Utilities,204.02
+E00079,2025-02-01,Operations,Utilities,1177.25
+E00080,2025-02-17,Operations,Utilities,326.61
+E00081,2025-02-13,Operations,Packaging,8725.76
+E00082,2025-02-28,Operations,Packaging,4284.05
+E00083,2025-02-24,Operations,Packaging,1763.2
+E00084,2025-02-25,Operations,Packaging,288.15
+E00085,2025-02-26,Operations,Packaging,1634.5
+E00086,2025-02-26,Operations,Packaging,1725.88
+E00087,2025-02-01,Operations,Operations salaries,20414.31
+E00088,2025-02-13,Operations,Operations salaries,15841.16
+E00089,2025-02-23,Operations,Operations salaries,34062.23
+E00090,2025-02-18,Administration,Office rent,2354.8
+E00091,2025-02-12,Administration,Office rent,469.34
+E00092,2025-02-11,Administration,Office rent,4602.73
+E00093,2025-02-22,Administration,Office rent,5270.65
+E00094,2025-02-10,Administration,Office rent,3035.82
+E00095,2025-02-13,Administration,Office rent,5430.92
+E00096,2025-02-21,Administration,Software,3432.59
+E00097,2025-02-03,Administration,Software,3729.37
+E00098,2025-02-12,Administration,Software,2812.43
+E00099,2025-02-11,Administration,Professional fees,48.17
+E00100,2025-02-03,Administration,Professional fees,213.57
+E00101,2025-02-27,Administration,Professional fees,59.74
+E00102,2025-02-15,Administration,Professional fees,1892.64
+E00103,2025-02-25,Administration,Professional fees,705.99
+E00104,2025-02-25,Administration,Professional fees,1329.01
+E00105,2025-02-10,Administration,Professional fees,4454.63
+E00106,2025-02-02,Administration,Admin salaries,5832.78
+E00107,2025-02-13,Administration,Admin salaries,10746.2
+E00108,2025-02-22,Administration,Admin salaries,28656.48
+E00109,2025-02-07,Administration,Admin salaries,5284.9
+E00110,2025-03-04,Sales,Marketing,789.07
+E00111,2025-03-21,Sales,Marketing,3370.25
+E00112,2025-03-23,Sales,Marketing,1731.8
+E00113,2025-03-12,Sales,Marketing,26152.53
+E00114,2025-03-16,Sales,Marketing,16262.03
+E00115,2025-03-15,Sales,Sales salaries,18492.95
+E00116,2025-03-24,Sales,Sales salaries,37806.55
+E00117,2025-03-07,Sales,Sales salaries,30001.12
+E00118,2025-03-01,Sales,Delivery,1425.51
+E00119,2025-03-24,Sales,Delivery,15400.13
+E00120,2025-03-19,Sales,Delivery,5350.8
+E00121,2025-03-08,Sales,Delivery,11372.26
+E00122,2025-03-26,Operations,Warehouse rent,18360.26
+E00123,2025-03-18,Operations,Warehouse rent,3103.48
+E00124,2025-03-21,Operations,Warehouse rent,945.42
+E00125,2025-03-10,Operations,Warehouse rent,2097.64
+E00126,2025-03-16,Operations,Warehouse rent,4517.06
+E00127,2025-03-18,Operations,Warehouse rent,13815.99
+E00128,2025-03-01,Operations,Utilities,7644.16
+E00129,2025-03-02,Operations,Utilities,27.05
+E00130,2025-03-11,Operations,Utilities,2772.03
+E00131,2025-03-02,Operations,Utilities,2094.98
+E00132,2025-03-11,Operations,Utilities,973.94
+E00133,2025-03-26,Operations,Utilities,495.1
+E00134,2025-03-07,Operations,Packaging,2069.13
+E00135,2025-03-26,Operations,Packaging,14382.26
+E00136,2025-03-21,Operations,Packaging,1961.01
+E00137,2025-03-22,Operations,Operations salaries,5020.62
+E00138,2025-03-28,Operations,Operations salaries,8333.37
+E00139,2025-03-28,Operations,Operations salaries,3102.31
+E00140,2025-03-18,Operations,Operations salaries,24489.02
+E00141,2025-03-05,Operations,Operations salaries,22527.39
+E00142,2025-03-24,Operations,Operations salaries,1990.95
+E00143,2025-03-19,Operations,Operations salaries,4720.03
+E00144,2025-03-02,Administration,Office rent,5245.6
+E00145,2025-03-24,Administration,Office rent,4913.2
+E00146,2025-03-05,Administration,Office rent,550.81
+E00147,2025-03-16,Administration,Office rent,13783.25
+E00148,2025-03-20,Administration,Software,6367.26
+E00149,2025-03-02,Administration,Software,481.76
+E00150,2025-03-08,Administration,Software,2977.31
+E00151,2025-03-21,Administration,Professional fees,5226.22
+E00152,2025-03-02,Administration,Professional fees,599.14
+E00153,2025-03-10,Administration,Professional fees,342.45
+E00154,2025-03-27,Administration,Professional fees,1470.76
+E00155,2025-03-06,Administration,Admin salaries,40397.34
+E00156,2025-03-27,Administration,Admin salaries,2638.03
+E00157,2025-03-19,Administration,Admin salaries,10614.73
+E00158,2025-04-04,Sales,Marketing,23757.58
+E00159,2025-04-04,Sales,Marketing,4495.62
+E00160,2025-04-16,Sales,Marketing,21584.79
+E00161,2025-04-08,Sales,Sales salaries,7160.5
+E00162,2025-04-03,Sales,Sales salaries,15624.33
+E00163,2025-04-26,Sales,Sales salaries,15676.39
+E00164,2025-04-07,Sales,Sales salaries,11983.84
+E00165,2025-04-14,Sales,Sales salaries,1477.77
+E00166,2025-04-11,Sales,Sales salaries,28166.55
+E00167,2025-04-26,Sales,Sales salaries,6040.61
+E00168,2025-04-22,Sales,Delivery,2451.37
+E00169,2025-04-19,Sales,Delivery,494.35
+E00170,2025-04-18,Sales,Delivery,10613.58
+E00171,2025-04-05,Sales,Delivery,13440.69
+E00172,2025-04-11,Sales,Delivery,198.63
+E00173,2025-04-27,Sales,Delivery,8521.83
+E00174,2025-04-19,Operations,Warehouse rent,4454.9
+E00175,2025-04-06,Operations,Warehouse rent,17972.71
+E00176,2025-04-11,Operations,Warehouse rent,3323.58
+E00177,2025-04-03,Operations,Warehouse rent,20368.0
+E00178,2025-04-25,Operations,Utilities,1820.18
+E00179,2025-04-14,Operations,Utilities,10275.56
+E00180,2025-04-06,Operations,Utilities,550.73
+E00181,2025-04-15,Operations,Packaging,1443.0
+E00182,2025-04-08,Operations,Packaging,416.66
+E00183,2025-04-19,Operations,Packaging,8946.51
+E00184,2025-04-02,Operations,Packaging,7258.85
+E00185,2025-04-05,Operations,Packaging,1032.02
+E00186,2025-04-21,Operations,Operations salaries,22544.12
+E00187,2025-04-20,Operations,Operations salaries,35516.04
+E00188,2025-04-13,Operations,Operations salaries,16930.25
+E00189,2025-04-16,Administration,Office rent,4710.28
+E00190,2025-04-03,Administration,Office rent,1729.02
+E00191,2025-04-01,Administration,Office rent,610.27
+E00192,2025-04-01,Administration,Office rent,14207.55
+E00193,2025-04-23,Administration,Software,5944.66
+E00194,2025-04-21,Administration,Software,2583.93
+E00195,2025-04-19,Administration,Software,1067.02
+E00196,2025-04-10,Administration,Software,1107.01
+E00197,2025-04-26,Administration,Professional fees,1341.82
+E00198,2025-04-25,Administration,Professional fees,2357.29
+E00199,2025-04-16,Administration,Professional fees,2260.92
+E00200,2025-04-23,Administration,Professional fees,1568.93
+E00201,2025-04-05,Administration,Professional fees,1064.89
+E00202,2025-04-07,Administration,Professional fees,91.11
+E00203,2025-04-17,Administration,Admin salaries,2896.3
+E00204,2025-04-15,Administration,Admin salaries,37592.82
+E00205,2025-04-14,Administration,Admin salaries,15319.73
+E00206,2025-04-08,Administration,Admin salaries,151.8
+E00207,2025-05-02,Sales,Marketing,3789.54
+E00208,2025-05-20,Sales,Marketing,38575.14
+E00209,2025-05-06,Sales,Marketing,179.72
+E00210,2025-05-23,Sales,Marketing,6209.2
+E00211,2025-05-03,Sales,Sales salaries,14016.07
+E00212,2025-05-21,Sales,Sales salaries,20738.19
+E00213,2025-05-27,Sales,Sales salaries,18591.41
+E00214,2025-05-26,Sales,Sales salaries,4473.28
+E00215,2025-05-10,Sales,Sales salaries,21937.8
+E00216,2025-05-12,Sales,Sales salaries,4770.51
+E00217,2025-05-08,Sales,Delivery,2030.5
+E00218,2025-05-07,Sales,Delivery,7079.09
+E00219,2025-05-04,Sales,Delivery,5409.93
+E00220,2025-05-17,Sales,Delivery,9759.36
+E00221,2025-05-04,Sales,Delivery,5528.78
+E00222,2025-05-20,Sales,Delivery,4333.24
+E00223,2025-05-18,Operations,Warehouse rent,979.87
+E00224,2025-05-17,Operations,Warehouse rent,4566.92
+E00225,2025-05-08,Operations,Warehouse rent,3070.01
+E00226,2025-05-15,Operations,Warehouse rent,2786.48
+E00227,2025-05-25,Operations,Warehouse rent,35987.18
+E00228,2025-05-07,Operations,Utilities,1204.44
+E00229,2025-05-04,Operations,Utilities,5368.86
+E00230,2025-05-26,Operations,Utilities,2405.4
+E00231,2025-05-05,Operations,Utilities,3819.91
+E00232,2025-05-06,Operations,Packaging,3288.05
+E00233,2025-05-22,Operations,Packaging,4049.38
+E00234,2025-05-02,Operations,Packaging,3193.22
+E00235,2025-05-02,Operations,Packaging,1022.59
+E00236,2025-05-21,Operations,Packaging,6034.19
+E00237,2025-05-12,Operations,Packaging,1551.56
+E00238,2025-05-09,Operations,Operations salaries,236.75
+E00239,2025-05-11,Operations,Operations salaries,9973.03
+E00240,2025-05-20,Operations,Operations salaries,1874.77
+E00241,2025-05-26,Operations,Operations salaries,27131.72
+E00242,2025-05-25,Operations,Operations salaries,29598.41
+E00243,2025-05-24,Administration,Office rent,5582.77
+E00244,2025-05-02,Administration,Office rent,1047.63
+E00245,2025-05-18,Administration,Office rent,35.3
+E00246,2025-05-06,Administration,Office rent,5972.58
+E00247,2025-05-06,Administration,Office rent,1266.66
+E00248,2025-05-26,Administration,Office rent,7706.93
+E00249,2025-05-04,Administration,Software,5986.24
+E00250,2025-05-03,Administration,Software,3463.75
+E00251,2025-05-08,Administration,Software,630.06
+E00252,2025-05-11,Administration,Professional fees,644.26
+E00253,2025-05-14,Administration,Professional fees,2523.48
+E00254,2025-05-07,Administration,Professional fees,504.96
+E00255,2025-05-24,Administration,Professional fees,246.05
+E00256,2025-05-22,Administration,Professional fees,1078.08
+E00257,2025-05-11,Administration,Professional fees,3645.06
+E00258,2025-05-11,Administration,Admin salaries,22300.49
+E00259,2025-05-08,Administration,Admin salaries,15807.62
+E00260,2025-05-04,Administration,Admin salaries,1914.42
+E00261,2025-05-08,Administration,Admin salaries,17875.42
+E00262,2025-06-13,Sales,Marketing,23390.13
+E00263,2025-06-08,Sales,Marketing,765.64
+E00264,2025-06-03,Sales,Marketing,3705.92
+E00265,2025-06-16,Sales,Marketing,10646.56
+E00266,2025-06-19,Sales,Marketing,6848.93
+E00267,2025-06-16,Sales,Marketing,6057.72
+E00268,2025-06-05,Sales,Sales salaries,54050.19
+E00269,2025-06-07,Sales,Sales salaries,19862.41
+E00270,2025-06-20,Sales,Sales salaries,15496.16
+E00271,2025-06-12,Sales,Delivery,6422.51
+E00272,2025-06-05,Sales,Delivery,6437.83
+E00273,2025-06-15,Sales,Delivery,7819.78
+E00274,2025-06-24,Sales,Delivery,9473.16
+E00275,2025-06-07,Sales,Delivery,2774.94
+E00276,2025-06-21,Sales,Delivery,2697.79
+E00277,2025-06-07,Operations,Warehouse rent,10200.32
+E00278,2025-06-11,Operations,Warehouse rent,6688.2
+E00279,2025-06-05,Operations,Warehouse rent,7712.93
+E00280,2025-06-02,Operations,Warehouse rent,10121.76
+E00281,2025-06-23,Operations,Warehouse rent,14063.78
+E00282,2025-06-05,Operations,Utilities,1561.28
+E00283,2025-06-04,Operations,Utilities,1782.54
+E00284,2025-06-28,Operations,Utilities,373.57
+E00285,2025-06-15,Operations,Utilities,3268.1
+E00286,2025-06-15,Operations,Utilities,138.55
+E00287,2025-06-14,Operations,Utilities,2371.76
+E00288,2025-06-06,Operations,Utilities,2961.06
+E00289,2025-06-10,Operations,Packaging,2056.94
+E00290,2025-06-20,Operations,Packaging,5444.27
+E00291,2025-06-06,Operations,Packaging,188.71
+E00292,2025-06-26,Operations,Packaging,231.89
+E00293,2025-06-26,Operations,Packaging,10535.71
+E00294,2025-06-19,Operations,Operations salaries,8513.76
+E00295,2025-06-18,Operations,Operations salaries,2590.61
+E00296,2025-06-28,Operations,Operations salaries,14081.79
+E00297,2025-06-08,Operations,Operations salaries,28017.56
+E00298,2025-06-03,Operations,Operations salaries,4634.83
+E00299,2025-06-14,Operations,Operations salaries,18591.71
+E00300,2025-06-28,Operations,Operations salaries,1700.73
+E00301,2025-06-07,Administration,Office rent,150.18
+E00302,2025-06-19,Administration,Office rent,2145.02
+E00303,2025-06-16,Administration,Office rent,2201.63
+E00304,2025-06-27,Administration,Office rent,2871.33
+E00305,2025-06-15,Administration,Office rent,3664.98
+E00306,2025-06-09,Administration,Office rent,10538.36
+E00307,2025-06-01,Administration,Office rent,2055.54
+E00308,2025-06-08,Administration,Software,1392.09
+E00309,2025-06-08,Administration,Software,5659.65
+E00310,2025-06-11,Administration,Software,1127.36
+E00311,2025-06-14,Administration,Software,2062.99
+E00312,2025-06-19,Administration,Software,291.63
+E00313,2025-06-08,Administration,Software,91.65
+E00314,2025-06-19,Administration,Professional fees,4076.36
+E00315,2025-06-01,Administration,Professional fees,2241.64
+E00316,2025-06-14,Administration,Professional fees,1476.4
+E00317,2025-06-02,Administration,Professional fees,652.07
+E00318,2025-06-02,Administration,Professional fees,235.98
+E00319,2025-06-16,Administration,Professional fees,210.95
+E00320,2025-06-24,Administration,Professional fees,357.13
+E00321,2025-06-17,Administration,Admin salaries,4721.59
+E00322,2025-06-13,Administration,Admin salaries,7430.02
+E00323,2025-06-16,Administration,Admin salaries,6396.21
+E00324,2025-06-26,Administration,Admin salaries,1946.09
+E00325,2025-06-26,Administration,Admin salaries,18358.63
+E00326,2025-06-23,Administration,Admin salaries,7934.7
+E00327,2025-06-27,Administration,Admin salaries,4789.38
+E00328,2025-07-08,Sales,Marketing,25892.44
+E00329,2025-07-03,Sales,Marketing,14890.08
+E00330,2025-07-18,Sales,Marketing,7791.06
+E00331,2025-07-14,Sales,Sales salaries,20586.52
+E00332,2025-07-07,Sales,Sales salaries,66351.12
+E00333,2025-07-05,Sales,Sales salaries,678.31
+E00334,2025-07-21,Sales,Delivery,1349.58
+E00335,2025-07-03,Sales,Delivery,515.14
+E00336,2025-07-01,Sales,Delivery,454.83
+E00337,2025-07-16,Sales,Delivery,21157.03
+E00338,2025-07-22,Sales,Delivery,13303.69
+E00339,2025-07-15,Operations,Warehouse rent,12294.64
+E00340,2025-07-28,Operations,Warehouse rent,1969.27
+E00341,2025-07-19,Operations,Warehouse rent,12939.86
+E00342,2025-07-24,Operations,Warehouse rent,12269.12
+E00343,2025-07-19,Operations,Warehouse rent,3637.88
+E00344,2025-07-15,Operations,Utilities,4107.76
+E00345,2025-07-25,Operations,Utilities,3670.47
+E00346,2025-07-05,Operations,Utilities,6908.06
+E00347,2025-07-28,Operations,Packaging,3633.12
+E00348,2025-07-12,Operations,Packaging,167.08
+E00349,2025-07-21,Operations,Packaging,1691.6
+E00350,2025-07-15,Operations,Packaging,3543.06
+E00351,2025-07-23,Operations,Packaging,2520.7
+E00352,2025-07-21,Operations,Packaging,6996.39
+E00353,2025-07-03,Operations,Operations salaries,63602.53
+E00354,2025-07-13,Operations,Operations salaries,10522.94
+E00355,2025-07-23,Operations,Operations salaries,4329.95
+E00356,2025-07-10,Administration,Office rent,4410.35
+E00357,2025-07-14,Administration,Office rent,115.23
+E00358,2025-07-25,Administration,Office rent,3779.73
+E00359,2025-07-09,Administration,Office rent,12082.03
+E00360,2025-07-23,Administration,Office rent,3674.38
+E00361,2025-07-26,Administration,Software,538.43
+E00362,2025-07-07,Administration,Software,1129.71
+E00363,2025-07-26,Administration,Software,671.75
+E00364,2025-07-22,Administration,Software,864.48
+E00365,2025-07-03,Administration,Software,3110.37
+E00366,2025-07-20,Administration,Software,534.73
+E00367,2025-07-11,Administration,Software,3560.76
+E00368,2025-07-22,Administration,Professional fees,7770.96
+E00369,2025-07-12,Administration,Professional fees,718.22
+E00370,2025-07-02,Administration,Professional fees,236.94
+E00371,2025-07-15,Administration,Admin salaries,26326.59
+E00372,2025-07-20,Administration,Admin salaries,4557.7
+E00373,2025-07-02,Administration,Admin salaries,24586.69
+E00374,2025-08-21,Sales,Marketing,15916.13
+E00375,2025-08-18,Sales,Marketing,1023.09
+E00376,2025-08-23,Sales,Marketing,5321.99
+E00377,2025-08-03,Sales,Marketing,25816.67
+E00378,2025-08-18,Sales,Marketing,326.21
+E00379,2025-08-11,Sales,Sales salaries,40728.97
+E00380,2025-08-08,Sales,Sales salaries,8005.01
+E00381,2025-08-18,Sales,Sales salaries,3040.42
+E00382,2025-08-04,Sales,Sales salaries,28848.39
+E00383,2025-08-25,Sales,Delivery,6039.43
+E00384,2025-08-19,Sales,Delivery,12789.27
+E00385,2025-08-28,Sales,Delivery,8091.73
+E00386,2025-08-23,Sales,Delivery,9911.37
+E00387,2025-08-07,Sales,Delivery,2018.43
+E00388,2025-08-25,Sales,Delivery,1189.94
+E00389,2025-08-09,Operations,Warehouse rent,7570.61
+E00390,2025-08-17,Operations,Warehouse rent,8963.18
+E00391,2025-08-22,Operations,Warehouse rent,25387.01
+E00392,2025-08-14,Operations,Warehouse rent,2900.56
+E00393,2025-08-12,Operations,Utilities,845.28
+E00394,2025-08-12,Operations,Utilities,2721.58
+E00395,2025-08-15,Operations,Utilities,757.15
+E00396,2025-08-16,Operations,Utilities,4851.27
+E00397,2025-08-17,Operations,Utilities,3551.67
+E00398,2025-08-16,Operations,Packaging,1419.92
+E00399,2025-08-23,Operations,Packaging,3521.66
+E00400,2025-08-18,Operations,Packaging,3559.29
+E00401,2025-08-22,Operations,Packaging,275.79
+E00402,2025-08-27,Operations,Packaging,5900.2
+E00403,2025-08-18,Operations,Packaging,1783.17
+E00404,2025-08-10,Operations,Packaging,4437.81
+E00405,2025-08-26,Operations,Operations salaries,5256.02
+E00406,2025-08-22,Operations,Operations salaries,30778.23
+E00407,2025-08-23,Operations,Operations salaries,6717.45
+E00408,2025-08-26,Operations,Operations salaries,148.48
+E00409,2025-08-03,Operations,Operations salaries,32128.79
+E00410,2025-08-07,Operations,Operations salaries,1304.35
+E00411,2025-08-13,Administration,Office rent,980.92
+E00412,2025-08-06,Administration,Office rent,7642.71
+E00413,2025-08-10,Administration,Office rent,7670.7
+E00414,2025-08-03,Administration,Office rent,2172.72
+E00415,2025-08-04,Administration,Office rent,2548.18
+E00416,2025-08-06,Administration,Office rent,1517.37
+E00417,2025-08-05,Administration,Software,702.78
+E00418,2025-08-16,Administration,Software,807.01
+E00419,2025-08-05,Administration,Software,2260.76
+E00420,2025-08-28,Administration,Software,2826.83
+E00421,2025-08-07,Administration,Software,3175.88
+E00422,2025-08-01,Administration,Professional fees,2475.49
+E00423,2025-08-10,Administration,Professional fees,151.88
+E00424,2025-08-14,Administration,Professional fees,1083.12
+E00425,2025-08-22,Administration,Professional fees,94.14
+E00426,2025-08-18,Administration,Professional fees,1266.4
+E00427,2025-08-05,Administration,Professional fees,925.12
+E00428,2025-08-16,Administration,Professional fees,3472.44
+E00429,2025-08-24,Administration,Admin salaries,7851.22
+E00430,2025-08-21,Administration,Admin salaries,2261.78
+E00431,2025-08-01,Administration,Admin salaries,2803.16
+E00432,2025-08-10,Administration,Admin salaries,26039.79
+E00433,2025-08-07,Administration,Admin salaries,17492.21
+E00434,2025-09-26,Sales,Marketing,3502.66
+E00435,2025-09-08,Sales,Marketing,2886.52
+E00436,2025-09-27,Sales,Marketing,39663.18
+E00437,2025-09-14,Sales,Sales salaries,840.98
+E00438,2025-09-19,Sales,Sales salaries,19204.81
+E00439,2025-09-11,Sales,Sales salaries,13636.72
+E00440,2025-09-21,Sales,Sales salaries,944.54
+E00441,2025-09-21,Sales,Sales salaries,986.9
+E00442,2025-09-26,Sales,Sales salaries,48039.78
+E00443,2025-09-11,Sales,Sales salaries,5219.11
+E00444,2025-09-23,Sales,Delivery,1631.79
+E00445,2025-09-17,Sales,Delivery,5904.68
+E00446,2025-09-27,Sales,Delivery,10368.1
+E00447,2025-09-18,Sales,Delivery,15043.03
+E00448,2025-09-15,Sales,Delivery,4933.2
+E00449,2025-09-15,Sales,Delivery,1663.39
+E00450,2025-09-26,Operations,Warehouse rent,773.52
+E00451,2025-09-10,Operations,Warehouse rent,13317.86
+E00452,2025-09-06,Operations,Warehouse rent,7250.99
+E00453,2025-09-26,Operations,Warehouse rent,4897.21
+E00454,2025-09-09,Operations,Warehouse rent,21009.17
+E00455,2025-09-10,Operations,Utilities,1135.19
+E00456,2025-09-25,Operations,Utilities,6534.04
+E00457,2025-09-28,Operations,Utilities,109.96
+E00458,2025-09-02,Operations,Utilities,6089.61
+E00459,2025-09-15,Operations,Packaging,834.06
+E00460,2025-09-06,Operations,Packaging,1820.54
+E00461,2025-09-20,Operations,Packaging,1799.46
+E00462,2025-09-06,Operations,Packaging,15077.27
+E00463,2025-09-06,Operations,Operations salaries,11609.07
+E00464,2025-09-27,Operations,Operations salaries,7416.01
+E00465,2025-09-23,Operations,Operations salaries,27737.15
+E00466,2025-09-23,Operations,Operations salaries,3979.22
+E00467,2025-09-22,Operations,Operations salaries,2849.92
+E00468,2025-09-26,Operations,Operations salaries,17190.05
+E00469,2025-09-05,Operations,Operations salaries,2143.63
+E00470,2025-09-02,Administration,Office rent,11263.17
+E00471,2025-09-11,Administration,Office rent,41.7
+E00472,2025-09-19,Administration,Office rent,11944.02
+E00473,2025-09-05,Administration,Office rent,150.45
+E00474,2025-09-06,Administration,Software,1830.19
+E00475,2025-09-07,Administration,Software,619.06
+E00476,2025-09-18,Administration,Software,4090.66
+E00477,2025-09-23,Administration,Software,63.27
+E00478,2025-09-02,Administration,Software,666.07
+E00479,2025-09-22,Administration,Software,2874.84
+E00480,2025-09-05,Administration,Professional fees,1575.72
+E00481,2025-09-12,Administration,Professional fees,2112.39
+E00482,2025-09-15,Administration,Professional fees,2532.2
+E00483,2025-09-18,Administration,Professional fees,1289.89
+E00484,2025-09-06,Administration,Professional fees,2101.85
+E00485,2025-09-01,Administration,Admin salaries,5227.95
+E00486,2025-09-13,Administration,Admin salaries,13782.55
+E00487,2025-09-16,Administration,Admin salaries,277.0
+E00488,2025-09-25,Administration,Admin salaries,1964.4
+E00489,2025-09-05,Administration,Admin salaries,17890.48
+E00490,2025-09-15,Administration,Admin salaries,13159.86
+E00491,2025-09-11,Administration,Admin salaries,3622.02
+E00492,2025-10-24,Sales,Marketing,21145.2
+E00493,2025-10-18,Sales,Marketing,7097.1
+E00494,2025-10-17,Sales,Marketing,4552.74
+E00495,2025-10-11,Sales,Marketing,13611.17
+E00496,2025-10-10,Sales,Sales salaries,4075.69
+E00497,2025-10-25,Sales,Sales salaries,8191.93
+E00498,2025-10-19,Sales,Sales salaries,756.54
+E00499,2025-10-22,Sales,Sales salaries,34263.4
+E00500,2025-10-05,Sales,Sales salaries,40049.5
+E00501,2025-10-15,Sales,Delivery,6302.65
+E00502,2025-10-11,Sales,Delivery,4041.3
+E00503,2025-10-23,Sales,Delivery,1948.78
+E00504,2025-10-04,Sales,Delivery,8844.22
+E00505,2025-10-24,Sales,Delivery,6073.59
+E00506,2025-10-16,Sales,Delivery,933.79
+E00507,2025-10-02,Sales,Delivery,12724.07
+E00508,2025-10-04,Operations,Warehouse rent,12075.43
+E00509,2025-10-10,Operations,Warehouse rent,20894.53
+E00510,2025-10-01,Operations,Warehouse rent,9034.63
+E00511,2025-10-13,Operations,Warehouse rent,6637.69
+E00512,2025-10-15,Operations,Utilities,1079.06
+E00513,2025-10-12,Operations,Utilities,5376.38
+E00514,2025-10-03,Operations,Utilities,4004.65
+E00515,2025-10-11,Operations,Utilities,92.17
+E00516,2025-10-02,Operations,Utilities,53.23
+E00517,2025-10-20,Operations,Utilities,940.91
+E00518,2025-10-21,Operations,Utilities,3313.95
+E00519,2025-10-08,Operations,Packaging,15161.47
+E00520,2025-10-26,Operations,Packaging,566.29
+E00521,2025-10-25,Operations,Packaging,3132.58
+E00522,2025-10-09,Operations,Packaging,1665.69
+E00523,2025-10-18,Operations,Operations salaries,31587.56
+E00524,2025-10-28,Operations,Operations salaries,16641.76
+E00525,2025-10-15,Operations,Operations salaries,16427.89
+E00526,2025-10-22,Operations,Operations salaries,5701.52
+E00527,2025-10-13,Administration,Office rent,15673.7
+E00528,2025-10-07,Administration,Office rent,9342.44
+E00529,2025-10-16,Administration,Office rent,1697.35
+E00530,2025-10-17,Administration,Software,1184.54
+E00531,2025-10-02,Administration,Software,992.5
+E00532,2025-10-22,Administration,Software,4839.26
+E00533,2025-10-12,Administration,Software,3372.18
+E00534,2025-10-13,Administration,Software,480.02
+E00535,2025-10-14,Administration,Professional fees,2088.56
+E00536,2025-10-12,Administration,Professional fees,4128.09
+E00537,2025-10-13,Administration,Professional fees,2700.73
+E00538,2025-10-12,Administration,Professional fees,405.02
+E00539,2025-10-12,Administration,Admin salaries,8842.91
+E00540,2025-10-10,Administration,Admin salaries,2042.23
+E00541,2025-10-15,Administration,Admin salaries,45485.82
+E00542,2025-11-24,Sales,Marketing,8973.47
+E00543,2025-11-15,Sales,Marketing,2499.92
+E00544,2025-11-24,Sales,Marketing,10725.91
+E00545,2025-11-14,Sales,Marketing,9270.28
+E00546,2025-11-26,Sales,Marketing,4270.03
+E00547,2025-11-15,Sales,Marketing,1160.76
+E00548,2025-11-10,Sales,Marketing,10722.17
+E00549,2025-11-14,Sales,Sales salaries,14087.66
+E00550,2025-11-24,Sales,Sales salaries,28378.34
+E00551,2025-11-14,Sales,Sales salaries,14081.9
+E00552,2025-11-05,Sales,Sales salaries,36662.11
+E00553,2025-11-05,Sales,Delivery,5582.38
+E00554,2025-11-07,Sales,Delivery,5723.96
+E00555,2025-11-10,Sales,Delivery,14553.11
+E00556,2025-11-16,Sales,Delivery,3592.78
+E00557,2025-11-28,Sales,Delivery,1000.6
+E00558,2025-11-17,Sales,Delivery,203.09
+E00559,2025-11-11,Sales,Delivery,9784.72
+E00560,2025-11-19,Operations,Warehouse rent,20445.36
+E00561,2025-11-25,Operations,Warehouse rent,25708.01
+E00562,2025-11-13,Operations,Warehouse rent,5056.06
+E00563,2025-11-21,Operations,Utilities,3223.21
+E00564,2025-11-09,Operations,Utilities,322.11
+E00565,2025-11-14,Operations,Utilities,9490.44
+E00566,2025-11-23,Operations,Packaging,4271.85
+E00567,2025-11-19,Operations,Packaging,2386.48
+E00568,2025-11-25,Operations,Packaging,2757.11
+E00569,2025-11-05,Operations,Packaging,11238.25
+E00570,2025-11-13,Operations,Operations salaries,9842.16
+E00571,2025-11-10,Operations,Operations salaries,16587.99
+E00572,2025-11-18,Operations,Operations salaries,35195.02
+E00573,2025-11-16,Operations,Operations salaries,11611.89
+E00574,2025-11-10,Administration,Office rent,4316.82
+E00575,2025-11-27,Administration,Office rent,8797.6
+E00576,2025-11-19,Administration,Office rent,13247.32
+E00577,2025-11-24,Administration,Software,393.51
+E00578,2025-11-15,Administration,Software,6460.3
+E00579,2025-11-08,Administration,Software,1675.89
+E00580,2025-11-01,Administration,Software,738.96
+E00581,2025-11-26,Administration,Software,1520.26
+E00582,2025-11-10,Administration,Professional fees,6718.39
+E00583,2025-11-21,Administration,Professional fees,1164.73
+E00584,2025-11-27,Administration,Professional fees,684.29
+E00585,2025-11-22,Administration,Admin salaries,30936.6
+E00586,2025-11-10,Administration,Admin salaries,8466.56
+E00587,2025-11-14,Administration,Admin salaries,2432.27
+E00588,2025-11-06,Administration,Admin salaries,4253.66
+E00589,2025-11-16,Administration,Admin salaries,4224.16
+E00590,2025-11-23,Administration,Admin salaries,5079.4
+E00591,2025-12-25,Sales,Marketing,3957.54
+E00592,2025-12-09,Sales,Marketing,27116.66
+E00593,2025-12-16,Sales,Marketing,5315.55
+E00594,2025-12-03,Sales,Marketing,11230.76
+E00595,2025-12-19,Sales,Sales salaries,45627.06
+E00596,2025-12-16,Sales,Sales salaries,12906.34
+E00597,2025-12-19,Sales,Sales salaries,22126.44
+E00598,2025-12-14,Sales,Sales salaries,3799.86
+E00599,2025-12-28,Sales,Sales salaries,4290.54
+E00600,2025-12-09,Sales,Sales salaries,838.36
+E00601,2025-12-21,Sales,Sales salaries,3717.86
+E00602,2025-12-27,Sales,Delivery,8906.56
+E00603,2025-12-04,Sales,Delivery,5313.47
+E00604,2025-12-12,Sales,Delivery,2533.45
+E00605,2025-12-17,Sales,Delivery,3506.36
+E00606,2025-12-24,Sales,Delivery,16845.77
+E00607,2025-12-19,Sales,Delivery,6303.01
+E00608,2025-12-06,Operations,Warehouse rent,9943.79
+E00609,2025-12-19,Operations,Warehouse rent,15366.44
+E00610,2025-12-02,Operations,Warehouse rent,25737.65
+E00611,2025-12-23,Operations,Utilities,205.34
+E00612,2025-12-05,Operations,Utilities,8225.01
+E00613,2025-12-12,Operations,Utilities,5061.45
+E00614,2025-12-06,Operations,Utilities,436.7
+E00615,2025-12-14,Operations,Packaging,8814.3
+E00616,2025-12-21,Operations,Packaging,10811.28
+E00617,2025-12-12,Operations,Packaging,268.6
+E00618,2025-12-17,Operations,Operations salaries,7306.59
+E00619,2025-12-21,Operations,Operations salaries,36984.9
+E00620,2025-12-03,Operations,Operations salaries,31089.22
+E00621,2025-12-21,Administration,Office rent,1355.59
+E00622,2025-12-06,Administration,Office rent,1561.07
+E00623,2025-12-25,Administration,Office rent,3075.54
+E00624,2025-12-04,Administration,Office rent,4403.87
+E00625,2025-12-20,Administration,Office rent,6399.83
+E00626,2025-12-25,Administration,Office rent,3059.11
+E00627,2025-12-06,Administration,Office rent,4126.26
+E00628,2025-12-11,Administration,Software,2179.99
+E00629,2025-12-27,Administration,Software,59.2
+E00630,2025-12-28,Administration,Software,460.85
+E00631,2025-12-22,Administration,Software,1979.23
+E00632,2025-12-26,Administration,Software,3573.21
+E00633,2025-12-10,Administration,Software,1135.4
+E00634,2025-12-09,Administration,Software,1203.12
+E00635,2025-12-19,Administration,Professional fees,471.93
+E00636,2025-12-12,Administration,Professional fees,2469.3
+E00637,2025-12-27,Administration,Professional fees,3166.47
+E00638,2025-12-05,Administration,Professional fees,1156.06
+E00639,2025-12-01,Administration,Professional fees,1305.85
+E00640,2025-12-12,Administration,Admin salaries,25339.77
+E00641,2025-12-25,Administration,Admin salaries,1084.68
+E00642,2025-12-16,Administration,Admin salaries,20795.7
+E00643,2025-12-14,Administration,Admin salaries,12708.64

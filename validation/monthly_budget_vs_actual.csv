@@ -1,0 +1,73 @@
+"month","metric","actual_zar","budget_zar","variance_zar","variance_pct","assessment","budget_complete","unmapped_budget_rows"
+"2025-01-01","COGS",455664.00,336365.57,119298.43,35.47,"Unfavourable",True,0
+"2025-01-01","Gross Profit",552127.67,423954.43,128173.24,30.23,"Favourable",True,0
+"2025-01-01","Operating Expenses",400876.41,391960.00,8916.41,2.27,"Unfavourable",True,0
+"2025-01-01","Operating Profit",151251.26,31994.43,119256.83,372.74,"Favourable",True,0
+"2025-01-01","Revenue",1007791.67,760320.00,247471.67,32.55,"Favourable",True,0
+"2025-01-01","Total Expenses",856540.41,728325.57,128214.84,17.60,"Unfavourable",True,0
+"2025-02-01","COGS",457204.00,348138.37,109065.63,31.33,"Unfavourable",True,0
+"2025-02-01","Gross Profit",562946.81,438792.83,124153.98,28.29,"Favourable",True,0
+"2025-02-01","Operating Expenses",388173.88,396663.52,-8489.64,-2.14,"Favourable",True,0
+"2025-02-01","Operating Profit",174772.93,42129.31,132643.62,314.85,"Favourable",True,0
+"2025-02-01","Revenue",1020150.81,786931.20,233219.61,29.64,"Favourable",True,0
+"2025-02-01","Total Expenses",845377.88,744801.89,100575.99,13.50,"Unfavourable",True,0
+"2025-03-01","COGS",442364.00,371836.84,70527.16,18.97,"Unfavourable",True,0
+"2025-03-01","Gross Profit",548396.18,468662.36,79733.82,17.01,"Favourable",True,0
+"2025-03-01","Operating Expenses",409206.06,401367.04,7839.02,1.95,"Unfavourable",True,0
+"2025-03-01","Operating Profit",139190.12,67295.32,71894.80,106.83,"Favourable",True,0
+"2025-03-01","Revenue",990760.18,840499.20,150260.98,17.88,"Favourable",True,0
+"2025-03-01","Total Expenses",851570.06,773203.88,78366.18,10.14,"Unfavourable",True,0
+"2025-04-01","COGS",463832.00,372234.36,91597.64,24.61,"Unfavourable",True,0
+"2025-04-01","Gross Profit",570499.80,469163.40,101336.40,21.60,"Favourable",True,0
+"2025-04-01","Operating Expenses",421146.89,406070.56,15076.33,3.71,"Unfavourable",True,0
+"2025-04-01","Operating Profit",149352.91,63092.84,86260.07,136.72,"Favourable",True,0
+"2025-04-01","Revenue",1034331.80,841397.76,192934.04,22.93,"Favourable",True,0
+"2025-04-01","Total Expenses",884978.89,778304.92,106673.97,13.71,"Unfavourable",True,0
+"2025-05-01","COGS",475710.00,392569.20,83140.80,21.18,"Unfavourable",True,0
+"2025-05-01","Gross Profit",582403.17,494793.35,87609.82,17.71,"Favourable",True,0
+"2025-05-01","Operating Expenses",413796.26,410774.08,3022.18,0.74,"Unfavourable",True,0
+"2025-05-01","Operating Profit",168606.91,84019.27,84587.64,100.68,"Favourable",True,0
+"2025-05-01","Revenue",1058113.17,887362.55,170750.62,19.24,"Favourable",True,0
+"2025-05-01","Total Expenses",889506.26,803343.28,86162.98,10.73,"Unfavourable",True,0
+"2025-06-01","COGS",497302.00,413270.97,84031.03,20.33,"Unfavourable",True,0
+"2025-06-01","Gross Profit",612397.44,520885.83,91511.61,17.57,"Favourable",True,0
+"2025-06-01","Operating Expenses",429361.59,415477.60,13883.99,3.34,"Unfavourable",True,0
+"2025-06-01","Operating Profit",183035.85,105408.23,77627.62,73.64,"Favourable",True,0
+"2025-06-01","Revenue",1109699.44,934156.80,175542.64,18.79,"Favourable",True,0
+"2025-06-01","Total Expenses",926663.59,828748.57,97915.02,11.81,"Unfavourable",True,0
+"2025-07-01","COGS",496232.00,430242.14,65989.86,15.34,"Unfavourable",True,0
+"2025-07-01","Gross Profit",606079.05,542276.26,63802.79,11.77,"Favourable",True,0
+"2025-07-01","Operating Expenses",426443.28,420181.12,6262.16,1.49,"Unfavourable",True,0
+"2025-07-01","Operating Profit",179635.77,122095.14,57540.63,47.13,"Favourable",True,0
+"2025-07-01","Revenue",1102311.05,972518.40,129792.65,13.35,"Favourable",True,0
+"2025-07-01","Total Expenses",922675.28,850423.26,72252.02,8.50,"Unfavourable",True,0
+"2025-08-01","COGS",523266.00,414341.22,108924.78,26.29,"Unfavourable",True,0
+"2025-08-01","Gross Profit",642090.05,522234.78,119855.27,22.95,"Favourable",True,0
+"2025-08-01","Operating Expenses",422069.13,424884.64,-2815.51,-0.66,"Favourable",True,0
+"2025-08-01","Operating Profit",220020.92,97350.14,122670.78,126.01,"Favourable",True,0
+"2025-08-01","Revenue",1165356.05,936576.00,228780.05,24.43,"Favourable",True,0
+"2025-08-01","Total Expenses",945335.13,839225.86,106109.27,12.64,"Unfavourable",True,0
+"2025-09-01","COGS",537556.00,435685.14,101870.86,23.38,"Unfavourable",True,0
+"2025-09-01","Gross Profit",659912.53,549136.62,110775.91,20.17,"Favourable",True,0
+"2025-09-01","Operating Expenses",427123.06,429588.16,-2465.10,-0.57,"Favourable",True,0
+"2025-09-01","Operating Profit",232789.47,119548.46,113241.01,94.72,"Favourable",True,0
+"2025-09-01","Revenue",1197468.53,984821.76,212646.77,21.59,"Favourable",True,0
+"2025-09-01","Total Expenses",964679.06,865273.30,99405.76,11.49,"Unfavourable",True,0
+"2025-10-01","COGS",519230.00,465866.31,53363.69,11.45,"Unfavourable",True,0
+"2025-10-01","Gross Profit",647261.23,587176.89,60084.34,10.23,"Favourable",True,0
+"2025-10-01","Operating Expenses",432274.41,434291.68,-2017.27,-0.46,"Favourable",True,0
+"2025-10-01","Operating Profit",214986.82,152885.21,62101.61,40.62,"Favourable",True,0
+"2025-10-01","Revenue",1166491.23,1053043.20,113448.03,10.77,"Favourable",True,0
+"2025-10-01","Total Expenses",951504.41,900157.99,51346.42,5.70,"Unfavourable",True,0
+"2025-11-01","COGS",534288.00,513721.96,20566.04,4.00,"Unfavourable",True,0
+"2025-11-01","Gross Profit",662008.83,647494.04,14514.79,2.24,"Favourable",True,0
+"2025-11-01","Operating Expenses",440519.85,438995.20,1524.65,0.35,"Unfavourable",True,0
+"2025-11-01","Operating Profit",221488.98,208498.84,12990.14,6.23,"Favourable",True,0
+"2025-11-01","Revenue",1196296.83,1161216.00,35080.83,3.02,"Favourable",True,0
+"2025-11-01","Total Expenses",974807.85,952717.16,22090.69,2.32,"Unfavourable",True,0
+"2025-12-01","COGS",582018.00,584129.39,-2111.39,-0.36,"Favourable",True,0
+"2025-12-01","Gross Profit",709516.94,736235.41,-26718.47,-3.63,"Unfavourable",True,0
+"2025-12-01","Operating Expenses",447657.53,443698.72,3958.81,0.89,"Unfavourable",True,0
+"2025-12-01","Operating Profit",261859.41,292536.69,-30677.28,-10.49,"Unfavourable",True,0
+"2025-12-01","Revenue",1291534.94,1320364.80,-28829.86,-2.18,"Unfavourable",True,0
+"2025-12-01","Total Expenses",1029675.53,1027828.11,1847.42,0.18,"Unfavourable",True,0
